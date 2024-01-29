@@ -36,10 +36,6 @@
 </p>
 
 
-
-
-## 🛠️ My favorite tools
-
 ### 👨‍💻 Programming Languages
 
 <p>
