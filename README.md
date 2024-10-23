@@ -23,7 +23,7 @@
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
         <img alt="telelgram"
              src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="[https://www.facebook.com/profile.php?id=100068970307814]">
+    <a href="[https://t.me/F_r_o_O_z_e_n]">
 </p>
 
 
