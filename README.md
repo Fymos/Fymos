@@ -21,10 +21,9 @@
     <a href="https://github.com/Fymos">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="[https://t.me/F_r_o_O_z_e_n]">
-        <img alt="telelgram"
-             src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    
+        <a href="https://t.me/F_r_o_O_z_e_n">
+        <img alt="telelgram" src="https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
 </p>
 
 
@@ -41,9 +40,11 @@
 
 <p>
     <a href="#">
-        <img alt="js"
-             src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=000"></a>
-
+        <img alt="js" src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=000">
+    </a>
+    <a href="#">
+        <img alt="js" src="https://img.shields.io/badge/с++-white.svg?style=for-the-badge&logo=с++&logoColor=fff">
+    </a>
 
 </p>
 
