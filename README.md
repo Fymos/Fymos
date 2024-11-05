@@ -61,17 +61,17 @@
         <img alt="react"
              src="https://img.shields.io/badge/react-%23013243.svg?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="#">
-        <img alt="angular"
-             src="https://img.shields.io/badge/angular-ff0000.svg?style=for-the-badge&logo=angular&logoColor=fff"></a>
+        <img alt="jquery"
+             src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
     <a href="#">
         <img alt="vuejs"
              src="https://img.shields.io/badge/vuejs-fff?style=for-the-badge&logo=vue.js&logoColor=3f9636"/></a> 
     <a href="#">
-        <img alt="express"
-             src="https://img.shields.io/badge/express-fff?style=for-the-badge&logo=express&logoColor=3f9636"></a>
+        <img alt="nextjs"
+             src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
     <a href="#">
         <img alt="MVC"
-             src="https://img.shields.io/badge/MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a>
+             src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
     <a href="#">
         <img alt="ejs"
              src="https://img.shields.io/badge/ejs-43B02A?style=for-the-badge&logo=ejs&logoColor=white"/></a>
